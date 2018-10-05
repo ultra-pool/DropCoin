@@ -1,0 +1,2 @@
+usr/local/bin/dropcoind usr/bin
+usr/local/bin/dropcoin-cli usr/bin

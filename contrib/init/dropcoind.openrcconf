@@ -1,0 +1,26 @@
+# /etc/conf.d/dropcoind: config file for /etc/init.d/dropcoind
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/dropcoin/dropcoin.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/dropcoind"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/dropcoind.pid"
+
+# Where to write dropcoind data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/dropcoind"
+
+# User and group to own dropcoind process
+#BITCOIND_USER="dropcoin"
+#BITCOIND_GROUP="dropcoin"
+
+# Path to dropcoind executable
+#BITCOIND_BIN="/usr/bin/dropcoind"
+
+# Nice value to run dropcoind under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

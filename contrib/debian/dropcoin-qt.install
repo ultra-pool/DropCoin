@@ -1,0 +1,6 @@
+usr/local/bin/dropcoin-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin16.xpm usr/share/pixmaps
+share/pixmaps/bitcoin128.png usr/share/pixmaps
+debian/dropcoin-qt.desktop usr/share/applications
+debian/dropcoin-qt.protocol usr/share/kde4/services/

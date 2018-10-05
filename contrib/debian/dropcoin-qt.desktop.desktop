@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=DropCoin
+Comment=DropCoin P2P Cryptocurrency
+Exec=dropcoin-qt %u
+Terminal=false
+Type=Application
+Icon=dropcoin128
+MimeType=x-scheme-handler/dropcoin;
+Categories=Office;Finance;
+Name[en_US]=dropcoin-qt.desktop

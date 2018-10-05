@@ -1,0 +1,11 @@
+[Protocol]
+exec=dropcoin-qt '%u'
+protocol=dropcoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
